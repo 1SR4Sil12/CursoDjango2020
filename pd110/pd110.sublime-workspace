@@ -1,0 +1,505 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"s",
+				"s\tTag"
+			],
+			[
+				"estanda",
+				"estandar"
+			],
+			[
+				"lin",
+				"linea"
+			],
+			[
+				"proy",
+				"proyecto"
+			],
+			[
+				"progra",
+				"programa"
+			],
+			[
+				"canal",
+				"canales"
+			],
+			[
+				"estre",
+				"estrategias"
+			],
+			[
+				"agr",
+				"agregacion"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fa",
+				"fa-5x"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"email",
+				"email_from"
+			],
+			[
+				"lis",
+				"list_display"
+			],
+			[
+				"PRIVS",
+				"PRIVS_USUARIO"
+			],
+			[
+				"P",
+				"PRIVS_ROL"
+			],
+			[
+				"background-i",
+				"background-image\tproperty"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"num",
+				"num_1"
+			],
+			[
+				"p",
+				"prompt"
+			],
+			[
+				"cadena",
+				"cadenaimpares"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"S",
+				"SALIR"
+			],
+			[
+				"javas",
+				"javascript"
+			],
+			[
+				"n",
+				"número"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgroun-",
+				"background-repeat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 29.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 391.0
+	},
+	"console":
+	{
+		"height": 312.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Israel/Documents/GitHub/CursoDjango2020/pd110",
+		"/Users/Israel/Documents/GitHub/CursoDjango2020/pd110/src"
+	],
+	"file_history":
+	[
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/LM/PYTHON/Conexión Base Datos/pelicula.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/3_Trimestre/2switch_2vlans_4pcs/index.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/3_Trimestre/lab_1sw_2vlans_4pcs/index.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/Actividades_3ev/1switch-3vlans-1router/1switch-3vlans-1router/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/3_Trimestre/lab_1sw_2vlans_4pcs/untitled",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html_primer_año/PAR/Página/Tercer_Trimestre/3_1switch-3vlans-1router/1switch-3vlans-1router/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html_primer_año/PAR/Página/Tercer_Trimestre/3_1switch-3vlans-1router/1sw-3vl-1rt/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/Actividades_2ev/ejercicio_enrutamiento/lab_enrutamiento_nuevo/lab.conf",
+		"/Users/Israel/Downloads/Memoria_2sw_3h.xhtml",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/TL_SG3216.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/IEEE_802.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/TEMA8_WIKILIBRO.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/802.11s.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/comparativa_estandares_wifi.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/memoria_traceroute.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/wiki_IEEE802.11n.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/router2.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/router1.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/pc3.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/pc2.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/pc1.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/netkit-dhcp/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/dhcp/dhcp.html",
+		"/Users/Israel/Downloads/wget.sh",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/enrutamiento.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/direcciones IP.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/wiki_.html",
+		"/Users/Israel/Desktop/memoria_traceroute.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/traceroute/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/netkit-lab_static-routing_mio/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/netkit-lab_static-routing/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/netkit-lab_static-routing/pc3.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/netkit-lab_static-routing/pc1.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/netkit-lab_static-routing/sw.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/ARP/netkit-lab_arp/r1.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/2o_Trimestre/PuntoAcceso.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/2_Trimestre/2SW_3HOSTs_simplificado/lab_2sw_3hosts/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/LM/PYTHON/markers.py",
+		"/Volumes/PEN ROJO/ISRAEL/2ASIR/Base de datos/Primera Practica/CREACIÓN_USUARIOS.py",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/LM/PYTHON/dic.py",
+		"/Volumes/PEN ROJO/ISRAEL/2ASIR/Base de datos/PROYECTO DELFOS/INTEGRANTES DEL GRUPO",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/1er_Trimestre/wiki_cross_layer.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/1er_Trimestre/par_tareas_1.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/Actividades_1ev/Wikipedia/wiki_cross_layer.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/LM/PYTHON/Relación_Básica/Ejercicio_16.py",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/public_html/PAR/1er_Trimestre/comandos.html",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR_2Y/REDES/netkit/Practicas/labTwoHost/lab.conf",
+		"/Users/Israel/Desktop/django/pd110/src/pd110/urls.py",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR/Gestión de Base de Datos/IMT/1.sql",
+		"/Users/Israel/Desktop/django/pd110/src/templates/navbar.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/head_css.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/registration_form.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/javascript.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/about.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/inicio.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/base.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/forms.html",
+		"/Users/Israel/Desktop/django/pd110/src/boletin/views.py",
+		"/Users/Israel/Desktop/django/pd110/src/pd110/settings.py",
+		"/Users/Israel/Desktop/django/pd110/src/static_pro/static/css/navbar-static-top.css",
+		"/Users/Israel/Desktop/django/pd110/src/pd110/views.py",
+		"/Users/Israel/Desktop/django/pd110/td/pd110.sublime-workspace",
+		"/Users/Israel/Desktop/django/pd110/static_env/static_root/css/navbar-static-top.css",
+		"/Users/Israel/Desktop/django/pd110/src/static_pro/static/css/custom.css",
+		"/Users/Israel/Desktop/django/pd110/static_env/static_root/css/navbar-fixed-top.css",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/activation_email.txt",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/activate.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/activation_complete.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/registration_complete.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/registration_closed.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/password_reset_done.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/password_reset_confirm.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/password_reset_complete.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/password_change_done.html",
+		"/Users/Israel/Desktop/django/pd110/src/templates/registration/logout.html",
+		"/Users/Israel/Desktop/django/pd110/src/static_pro/static/css/navbar-fixed-top.css",
+		"/Users/Israel/Desktop/django/pd110/src/boletin/admin.py",
+		"/Users/Israel/Desktop/django/pd110/src/boletin/models.py",
+		"/Users/Israel/Desktop/django/pd110/src/boletin/forms.py",
+		"/Users/Israel/Desktop/django/pd110/pd110",
+		"/Volumes/PEN ROJO/ISRAEL/1ASIR/Gestión de Base de Datos/externo.sh",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/externo.sh",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE4_PLSQL/Corre/co361f.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE4_PLSQL/Triggers/T004.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE4_PLSQL/Triggers/T002.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/patata.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/Prueba/01.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Planificación y Administración de Redes/somoslosmaquinas/examenvlans/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Planificación y Administración de Redes/somoslosmaquinas/exam2/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE3_SQL/Ejercicios_PDF/sql/viejoven.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE3_SQL/Ejercicios_PDF/sql/2016_croods2.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE3_SQL/Esquemas/e4710.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/BLOQUE4_PLSQL/Triggers/T001.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Planificación y Administración de Redes/Actividades/Tercer Trimestre/5_Memoria prácticas con netkit/1_1 switch-2vlans-4pcs/lab1sw-2vl-4pcs/sw1.startup",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Planificación y Administración de Redes/Actividades/Tercer Trimestre/5_Memoria prácticas con netkit/2_2switches-2vlans-4pcs/lab2sw-2vl-4pcs/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Planificación y Administración de Redes/Actividades/Tercer Trimestre/5_Memoria prácticas con netkit/1_1 switch-2vlans-4pcs/lab1sw-2vl-4pcs/lab.conf",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/Esquemas/ARO/foliotime_22-03-2019/man.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Lenguaje de Marcas/Python/Checkio/GroundForTheHouse.py",
+		"/Volumes/CD_ROM/AUTOUNATTEND.XML",
+		"/Users/Israel/Desktop/tripa.py",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/FolioTime/25_01_2019/cr3.sql",
+		"/Volumes/PEN ROJO/ISRAEL/1º ASIR/Gestión de Base de Datos/FolioTime/25_01_2019/cr2.sql",
+		"/Volumes/PEN ROJO/https-::prezi.com:view:BGKQTe61fqSBGqKlBSiO:",
+		"/Volumes/ISRAEL/1º ASIR/public_html/PAR/Página/index.html",
+		"/Volumes/ISRAEL/1º ASIR/public_html/index.html",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/sw2.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/sw1.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/sw3.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/lab.conf",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc1.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc2.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc3.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc4.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc5.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc7.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio_con_fallos/pc6.startup",
+		"/Volumes/ISRAEL/Documento sin título",
+		"/Volumes/ISRAEL/1º ASIR/Gestión de Base de Datos/FolioTime/25_01_2019/cr3.sql",
+		"/Volumes/ISRAEL/1º ASIR/Gestión de Base de Datos/FolioTime/25_01_2019/cr2.sql",
+		"/Volumes/ISRAEL/1º ASIR/Lenguaje de Marcas/Silva.Bravo.Israel.py",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio con bucle/lab_con_bucle/lab.conf",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio con bucle/lab_con_bucle/switch3.startup",
+		"/Volumes/ISRAEL/1º ASIR/Planificación y Administración de Redes/Netkit/Laboratorios/Segundo Trimestre/Laboratorio con bucle/lab_con_bucle/switch2.startup",
+		"/Volumes/ISRAEL/1º ASIR/public_html/PAR/Página/Ejercicios_TEMA_4.html",
+		"/Volumes/ISRAEL/1º ASIR/public_html/PAR/Página/Ejercicios_TEMA_3.html",
+		"/Volumes/ISRAEL/1º ASIR/public_html/PAR/Página/Ejercicios_libro_PAR_tema4.html",
+		"/Volumes/ISRAEL/1º ASIR/public_html/PAR/Página/Ejercicios_libro_PAR_tema3.html",
+		"/Volumes/USB DISK/Israel Silva/2º S.M.R/Aplicaciones Web/Prácticas/MARIO/Práctica_3/Web con CSS_Mari Carmen Méndez & Israel Silva Bravo/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pd110.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Práctica_3/Práctica CCS3/Ejercicio/seccion1.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
