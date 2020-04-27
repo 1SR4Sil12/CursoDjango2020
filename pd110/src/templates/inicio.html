@@ -4,12 +4,18 @@
 {% block head_title %}Bienvenidos | {{block.super}}{% endblock %}
 
 {% block jumbotron_content %}
-		<h1>INICIO</h1>
-         <p>This example is a quick exercise to illustrate how the default, static and fixed to top navbar work. It includes the responsive CSS and HTML, so it also adapts to your viewport and device.</p>
-         <p>To see the difference between static and fixed top navbars, just scroll.</p>
+<div class='row'>
+	<div class='col-sm-6'>
+		<h1>Probar Djando 3.05</h1>
+         <p>En esta práctica seguimos un curso de Django para principiantes en el que aprendemos la utilización de Django y sus funciones.</p>
+         <p>También hacemos uso de una plantilla boostrap y de crispy para que todo se vea más fluido.</p>
          <p>
-           <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">View navbar docs &raquo;</a>
-         </p> 
+           <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">UNETE A NOSOTROS &raquo;</a>
+         </p>
+    </div>
+<div class='col-sm-6' style="background-color: black; height: 300px">
+</div>
+</div>
 {% endblock %}
 
 
@@ -21,9 +27,28 @@
 <br>
 
 {% block content %}
-<form method="POST" action="">{%csrf_token %}
-{{ el_form|crispy }}
-<input type="submit" value="Registrame" />
-</form>
+<div class="row">
+	<div class="col-sm-3 col-xs-12 pull-right">
+		<p class="lead">{{ titulo }}</p>
+		<form method="POST" action="">{%csrf_token %}
+		{{ el_form|crispy }}
+		<input class="btn btn-primary" type="submit" value="Inscribirse" />
+		</form>
+	</div>
+
+	<div class="col-sm-3">
+		<p class="lead">Creado con Django &amp; Bootstrap</p>
+	</div>
+
+	<div class="col-sm-3">
+		<p class="lead">Con mucho amor y pasión</p>
+	</div>
+
+	<div class="col-sm-3">
+		<p class="lead">Siempre código abierto</p>
+	</div>
+</div>
+
+
 <hr>
 {% endblock %}
