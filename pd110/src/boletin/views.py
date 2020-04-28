@@ -44,6 +44,7 @@ def inicio(request):
 	return render(request, "inicio.html", context)
 
 def contact(request):
+	titulo = "Contacto"
 	form = ContactForm(request.POST or None)
 	if form.is_valid():
 
@@ -72,6 +73,7 @@ def contact(request):
 
 	context = {
 		"form": form,
+		"titulo": titulo,
 	}
 	return render(request, "forms.html", context)
 	
