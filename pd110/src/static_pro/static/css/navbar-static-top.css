@@ -1,12 +1,14 @@
 body {
-  min-height: 750px;
+  min-height: 2000px;
 }
 
 .navbar-static-top {
-  margin-bottom: 0px;
+  margin-bottom: 19px;
 }
 
-.navbar-default {
+
+
+/*.navbar-default {
 	background-color: #172548 !important;
 	border-color: #337ab7;
 }
@@ -29,4 +31,4 @@ body {
 
 .navbar-default .navbar-toggle:hover {
 	background-color: white;
-}
+}*/

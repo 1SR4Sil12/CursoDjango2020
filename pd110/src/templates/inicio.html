@@ -18,9 +18,6 @@
 </div>
 {% endblock %}
 
-
-
-
 {{ titulo }}<br>
 {{ request.user }}
 <hr/>
@@ -29,7 +26,7 @@
 {% block content %}
 <div class="row">
 	<div class="col-sm-3 col-xs-12 pull-right">
-		<p class="lead">{{ titulo }}</p>
+		<p class="lead text-align-center">{{ titulo }}</p>
 		<form method="POST" action="">{%csrf_token %}
 		{{ el_form|crispy }}
 		<input class="btn btn-primary" type="submit" value="Inscribirse" />
@@ -37,15 +34,15 @@
 	</div>
 
 	<div class="col-sm-3">
-		<p class="lead">Creado con Django &amp; Bootstrap</p>
+		<p class="lead text-align-center">Creado con Django &amp; Bootstrap</p>
 	</div>
 
 	<div class="col-sm-3">
-		<p class="lead">Con mucho amor y pasión</p>
+		<p class="lead text-align-center">Con mucho amor y pasión</p>
 	</div>
 
 	<div class="col-sm-3">
-		<p class="lead">Siempre código abierto</p>
+		<p class="lead text-align-center">Siempre código abierto</p>
 	</div>
 </div>
 
