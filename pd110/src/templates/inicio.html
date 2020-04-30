@@ -20,6 +20,11 @@
 </style>
 
 {% block jumbotron %}
+
+{% if request.user.is_staff %}
+{{ queryset }}
+{% else %}
+
 <div class="jumbotron">
 <div class="container">
 <div class='row'>
@@ -35,6 +40,7 @@
 </div>
 </div>
 </div>
+{% endif %}
 {% endblock %}
 
 {{ titulo }}<br>
@@ -43,17 +49,22 @@
 <br>
 
 {% block content %}
+{% if request.user.is_staff %}
 <div class="row">
 	<div class="col-sm-3 col-xs-12 pull-right">
-		<p class="lead text-align-center">{{ titulo }}</p>
+		{% if not user.is_authenticated %}		
+		<p class="lead text-align-center">Suscribirte</p>
 		<form method="POST" action="">{%csrf_token %}
 		{{ el_form|crispy }}
 		<input class="btn btn-primary" type="submit" value="Inscribirse" />
 		</form>
+		{% else %}
+		<p class="lead text-align-center">{{ titulo }}</p><br><br><i style="margin-left: 85px;" class="fa fa-hand-peace-o fa-5x" aria-hidden="true"></i>
+		{% endif %}
 	</div>
 
 	<div class="col-sm-3">
-		<p class="lead text-align-center">Creado con Django &amp; Bootstrap.<br><i style="margin-top: 15px;" class="fab fa-battle-net fa-spin fa-5x"></i></p>
+		<p class="lead text-align-center">Creado con Django &amp; Bootstrap.<br><i style="margin-top: 15px; color: #0B3B2E" class="fab fa-battle-net fa-spin fa-5x"></i></p>
 	</div>
 
 	<div class="col-sm-3">
@@ -61,10 +72,10 @@
 	</div>
 
 	<div class="col-sm-3">
-		<p class="lead text-align-center">Siempre código abierto.<br><br><i class="fab fa-python fa-5x"></i></p>
+		<p class="lead text-align-center">Siempre código abierto.<br><br><i class="fab fa-python fa-5x" style="color: #0B3B2E"></i></p>
 	</div>
 </div>
 
-
 <hr>
+{% endif %}
 {% endblock %}
