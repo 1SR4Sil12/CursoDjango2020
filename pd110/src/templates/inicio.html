@@ -22,7 +22,11 @@
 {% block jumbotron %}
 
 {% if request.user.is_staff %}
-{{ queryset }}
+<table class="table">
+{% for instance in queryset %}
+<tr><td>{{ forloop.counter }}</td><td>{{ instance }}</td><td>{{ instance.nombre }}</td><td>hace {{ instance.timestamp|timesince }}</td></tr><br>
+{% endfor %}
+</table>
 {% else %}
 
 <div class="jumbotron">
@@ -30,10 +34,10 @@
 <div class='row'>
 	<div class='col-sm-6'>
 		<h1>Probar Djando 3.05</h1>
-         <p>En esta práctica seguimos un curso de Django para principiantes en el que aprendemos la utilización de Django y sus funciones.</p>
-         <p>El objetivo es construir una página web simple a la par que elegante en muy poco tiempo.</p>
+         <p style="text-align: justify;">En esta práctica seguimos un curso de Django para principiantes en el que aprendemos la utilización de Django y sus funciones.</p>
+         <p style="text-align: justify;">El objetivo es construir una página web simple a la par que elegante en muy poco tiempo.</p>
          <p>
-           <a class="btn btn-lg btn-primary" href="../../components/#navbar" role="button">UNETE A NOSOTROS &raquo;</a>
+           <a class="btn btn-lg btn-primary" href="{% url 'registration_register' %}" role="button">UNETE A NOSOTROS &raquo;</a>
          </p>
     </div>
 <div class='col-sm-6' style="margin-top: 27px;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DGogLQkvUaw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -59,7 +63,7 @@
 		<input class="btn btn-primary" type="submit" value="Inscribirse" />
 		</form>
 		{% else %}
-		<p class="lead text-align-center">{{ titulo }}</p><br><br><i style="margin-left: 85px;" class="fa fa-hand-peace-o fa-5x" aria-hidden="true"></i>
+		<p class="lead text-align-center">{{ titulo }}</p><br><br><i style="margin-left: 85px; color: #0B3B2E;" class="fa fa-hand-peace-o fa-5x" aria-hidden="true"></i>
 		{% endif %}
 	</div>
 
